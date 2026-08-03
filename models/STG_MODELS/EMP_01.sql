@@ -1,1 +1,1 @@
-select id from emp
+select Name from emp
