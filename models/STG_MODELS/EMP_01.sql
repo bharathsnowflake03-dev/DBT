@@ -1,1 +1,1 @@
-select * from emp
+select S_DATE from emp
